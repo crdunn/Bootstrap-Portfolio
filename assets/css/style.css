@@ -13,3 +13,16 @@ body {
 .panel {
 	width: 300px;
 }
+
+.newLine {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.linkedIn {
+	padding-left: 18px;
+}
+
+.resume {
+	padding-left: 30px;
+}
