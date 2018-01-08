@@ -26,3 +26,15 @@ body {
 .resume {
 	padding-left: 30px;
 }
+
+.portfolio {
+	width: 280px;
+	margin-bottom: 10px
+}
+
+.npmPortfolio {
+	padding-top: 33px;
+	padding-bottom: 33px;
+	width: 280px;
+	margin-bottom: 10px
+}
